@@ -1,0 +1,14 @@
+{
+  "name": "calculadora-polimorfica",
+  "version": "0.0.1",
+  "description": "Calculadora feita em TypeScript, utilizando princípios do paradigma de programação orientada à objetos",
+  "main": "out/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^16.7.10"
+  }
+}
